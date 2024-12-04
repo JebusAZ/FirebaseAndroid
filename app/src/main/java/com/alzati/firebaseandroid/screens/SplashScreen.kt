@@ -15,5 +15,5 @@ fun SplashScreen (navController: NavController){
         delay(3000L)
         navController.navigate(Screens.LoginScreen.name)
     }
-    Text(text ="Splash Screen")
+    Text(text ="Splash Screen actualizado")
 }
